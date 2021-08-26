@@ -1,0 +1,2 @@
+run = "javac @arguments @classes"
+language = "Java"
